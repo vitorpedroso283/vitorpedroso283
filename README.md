@@ -44,6 +44,7 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
 <br>
   <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <div>
+                                                                                                                              </div>
 <h2> Redes Sociais </h2>
   <a href="https://instagram.com/vitor.samuel_04?igshid=Mzc0YWU1OWY=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitorsamuel283@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -54,7 +55,7 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
 <h2> Estatísticas </h2>
 <a href="https://github.com/vitorpedroso283">
                                            
-<img width="400" height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpedroso283&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpedroso283&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)"/>
+<img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpedroso283&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpedroso283&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpedroso283&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=vitorpedroso283&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 </div>
