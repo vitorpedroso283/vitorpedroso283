@@ -8,6 +8,7 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
 - 📝 Formado em Gestão de TI e cursando Engenharia de Computação pelo Descomplica.
 - 🌱 Possuo experiência nas áreas de infraestrutura e desenvolvimento web.
 - 😎 Hoje sou capaz de desenvolver sistemas desktop em C#, app mobile em IONIC, sistemas web com PHP, Laravel,js, Vue.js,TypeScript, API's com Slim Framework, manipulação de bancos SQLServer e MySQL, além de habilidades de manuseio com Linux e conteinerização com Docker e utilizo o SonarCube para garantir que minhas aplicações sejam seguras e otimizadas.
+- 💭 Proficiência em Inglês
 - 😉 Sou um profissional de tecnologia completo!
 
 </div>
