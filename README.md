@@ -47,6 +47,7 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
   <a href="https://www.linkedin.com/in/vitor-pedroso-49a6251a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div><br>
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+                          ![Snake animation](https://github.com/vitorpedroso283/vitorpedroso283/blob/output/github-contribution-grid-snake.svg)
 <h2> Estatísticas </h2>
 <a href="https://github.com/vitorpedroso283">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpedroso283&layout=compact&langs_count=7&theme=dracula"/>
