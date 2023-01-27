@@ -28,7 +28,9 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
  <img align="center" alt="SQLServer" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
  <img align="center" alt="Linux" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img align="center" alt="Docker" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
- <img align="center" alt="FileZilla" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />    
+ <img align="center" alt="FileZilla" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+ <img align="center" alt="GitHub" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
       
 <div>
 <br>
