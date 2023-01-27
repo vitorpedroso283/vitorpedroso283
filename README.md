@@ -27,7 +27,6 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
  <img align="center" alt="CSHARP" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />      
  <img align="center" alt="MySQL" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="SQLServer" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
- 
  <img align="center" alt="Jenkins" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />        
  <img align="center" alt="Visual Studio" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />   
  <img align="center" alt="VS Code" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -37,8 +36,8 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
  <img align="center" alt="Apache" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />         
  <img align="center" alt="FileZilla" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
  <img align="center" alt="GitHub" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
- <img align="center" alt="Jira" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"       
-<div>
+ <img align="center" alt="Jira" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+</div>
 <br>
   <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <div>
