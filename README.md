@@ -7,7 +7,7 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
 - 🚀 Sou Desenvolvedor PHP Pleno.
 - 📝 Formado em Gestão de TI e cursando Engenharia de Computação pelo Descomplica.
 - 🌱 Possuo experiência nas áreas de infraestrutura e desenvolvimento web.
-- 😎 Hoje sou capaz de desenvolver sistemas desktop em C#, sistemas web com PHP, Laravel,js, Vue.js, manipulação de bancos SQLServer e MySQL, além de habilidades de manuseio com Linux e conteinerização com Docker e utilizo o SonarCube para garantir que minhas aplicações sejam seguras e otimizadas.
+- 😎 Hoje sou capaz de desenvolver sistemas desktop em C#, app mobile em IONIC, sistemas web com PHP, Laravel,js, Vue.js,TypeScript, API's com Slim Framework, manipulação de bancos SQLServer e MySQL, além de habilidades de manuseio com Linux e conteinerização com Docker e utilizo o SonarCube para garantir que minhas aplicações sejam seguras e otimizadas.
 - 😉 Sou um profissional de tecnologia completo!
 
 </div>
@@ -19,6 +19,8 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
  <img align="center" alt="Bootstrap" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
  <img align="center" title="Tailwind" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />   
  <img align="center" alt="JS" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="JS" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />      
+ <img align="center" alt="IONIC" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" /> 
  <img align="center" alt="Vue.js" height=50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />       
  <img align="center" alt="JQuery" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
  <img align="center" alt="PHP" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
