@@ -4,10 +4,10 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
 <div>
 
 - 👨‍💻 Atualmente eu trabalho com Desenvolvimento PHP pelo Grupo Multi.
-- 🚀 Sou Desenvolvedor Backend PHP - Laravel.
+- 🚀 Sou Desenvolvedor Backend PHP.
 - 📝 Formado em Gestão de TI e Cursando Engenharia de Computação.
 - 🌱 Possuo experiência nas áreas de infraestrutura e desenvolvimento web.
-- 😎 Hoje sou capaz de desenvolver sistemas desktop em C#, app mobile em IONIC, sistemas web com PHP, Laravel,js, Vue.js,TypeScript, API's com Slim Framework, manipulação de bancos SQLServer e MySQL, além de habilidades de manuseio com Linux e conteinerização com Docker e utilizo o SonarCube para garantir que minhas aplicações sejam seguras e otimizadas.
+- 😎 Hoje sou capaz de desenvolver sistemas desktop em C# e web com .NET Framework, app mobile em IONIC, sistemas web com PHP, Laravel,js, Vue.js,TypeScript, API's com Slim Framework, manipulação de bancos SQLServer e MySQL, além de habilidades de manuseio com Linux e conteinerização com Docker e utilizo o SonarCube para garantir que minhas aplicações sejam seguras e otimizadas.
 - 💭 Proficiência em Inglês
 - 😉 Sou um profissional de tecnologia completo!
 
