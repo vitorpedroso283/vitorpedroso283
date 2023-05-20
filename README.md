@@ -54,8 +54,6 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
                         
 <h2> Estatísticas </h2>
 <a href="https://github.com/vitorpedroso283">
-                                           
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpedroso283&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpedroso283&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpedroso283&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
 </div>
 
