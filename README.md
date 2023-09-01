@@ -3,7 +3,7 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
 <a href="https://github.com/vitorpedroso283"></a>
 <div>
 
-- 👨‍💻 Atualmente eu trabalho com Desenvolvimento PHP pelo Grupo Multi.
+- 👨‍💻 Atualmente eu trabalho com Desenvolvimento Full Stack pela Easyjur Software Jurídico inteligente.
 - 🚀 Sou Desenvolvedor Backend PHP.
 - 📝 Formado em Gestão de TI e Cursando Pós Graduação em Segurança da Informação.
 - 🌱 Possuo experiência nas áreas de infraestrutura e desenvolvimento web.
