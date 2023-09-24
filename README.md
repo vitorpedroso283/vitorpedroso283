@@ -7,7 +7,7 @@ Meu nome é Vitor Pedroso e é um prazer tê-lo aqui! <img src="https://media.gi
 - 🚀 Sou Desenvolvedor Backend PHP.
 - 📝 Formado em Gestão de TI e Cursando Pós Graduação em Segurança da Informação.
 - 🌱 Possuo experiência nas áreas de infraestrutura e desenvolvimento web.
-- 😎 Hoje sou capaz de desenvolver sistemas desktop em C#, sistemas web com PHP, Laravel,Slim, Vue.js,Angular.js,TypeScript, javascript, manipulação de bancos SQLServer, Oracle e MySQL, além de habilidades de manuseio com Linux e conteinerização com Docker e utilizo o Sonarqube para garantir que minhas aplicações sejam seguras e otimizadas.
+- 😎 Hoje sou capaz de desenvolver sistemas desktop em C#, sistemas web com PHP, Laravel,Slim, Vue.js,TypeScript, javascript e node, manipulação de bancos relacionais SQLServer, Oracle e MySQL, banco de dados não relacional ELastic Search, App Search e Azure Cognitive Search, arquiteturas MVC e Serverless Azure Function, além de habilidades de manuseio com Linux e conteinerização com Docker e utilizo o Sonarqube para garantir que minhas aplicações sejam seguras e otimizadas.
 - 💭 Proficiência em Inglês
 - 😉 Sou um profissional de tecnologia completo!
 
